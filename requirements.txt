@@ -1,0 +1,7 @@
+netifaces
+tkinter
+mimetypes
+hashlib
+platformthreading
+os
+datetime
